@@ -1,5 +1,11 @@
 # JEKYLL -- Welcome to My GitHub Pages Site!
 
+---
+layout: default
+title: Home
+---
+Welcome to my website!
+
 This repository contains my personal website, built using GitHub Pages.
 
 ## Features of My Website
