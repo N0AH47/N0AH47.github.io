@@ -1,6 +1,6 @@
 ## Hello, I'm Noah Hopkins
-<a href="https://linkedin.com/in/noah-hopkins"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
+<a href="https://linkedin.com/in/noah-hopkins"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 I am a Junior at the University of South Florida with a profound interest in technology and a dedication to solving complex problems. This page is dedicated to introducing you to my background in cybersecurity, details on projects I am working on, and tools that I have proficiency in.
 
 ## Objective
@@ -9,6 +9,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 ---
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Application of skill          | <a href="https://google.com">Test Link</a>|
