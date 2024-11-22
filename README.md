@@ -1,4 +1,3 @@
-# Noah Hopkins
 
 Welcome to my website!
 
