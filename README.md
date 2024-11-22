@@ -1,4 +1,4 @@
-# JEKYLL -- Welcome to My GitHub Pages Site!
+# Noah Hopkins
 
 ---
 layout: default
